@@ -1,4 +1,4 @@
-class Circle implements Shape, Transformable {//use implements to implement interfaces
+class Circle implements Shape2D, Transformable {//use implements to implement interfaces
 	
 	public double radius;
 	int[] position = new int[]{0, 0};

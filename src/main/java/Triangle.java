@@ -1,4 +1,4 @@
-class Triangle implements Shape {
+class Triangle implements Shape2D {
 	
 	public double base;
 	public double height;
